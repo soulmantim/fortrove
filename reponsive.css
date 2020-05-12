@@ -1,0 +1,69 @@
+/* CSS Document */
+@charset "utf-8";
+
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+.creativege_background {
+	border: 0px;
+	overflow: hidden;
+	padding: 0 2%;
+	width: 96%;
+}
+.creativege_wrapcen {
+}
+.creativege_header, .creativege_logo {
+width: 100%;
+ text-align:center;	
+}
+.creativege_promo_banner, .right_top , .creativege_nav_holder, .promo-banner, .creativege_headertop-holder, .promo{
+	display: none;
+}
+.top-header, #creativege_logo {
+	width:100%;
+	text-align:center;
+	margin:30px 0;
+}
+.content, .footer_con, .creativege_footer_div1, .creativege_footer, #creativege_footer, .top_header, .footer-div1 {
+	width: 100%;
+}
+
+.creativege_footer {
+padding: 0px 0 0px 0;	
+}
+
+.footer_full {
+  background:none;
+  margin: 0px 0 0;
+}
+.newsletter, .footer_logo, .addtofav, .footer_nav, .f-col2, .f-col3, .f-col4, #creativege_footer{
+	display: none;
+}
+.f-col1 {
+width: 100%;
+text-align:center;	
+}
+
+.bottom_footer {
+	width: 100%;
+	padding: 0 10px;
+	box-sizing: border-box;
+}
+#creativege_copy  {
+text-align:center;	
+padding:10px 0px 0;
+width:100%;
+}
+ .creativege_designer {
+text-align:center;	
+padding:10px 0px 10px;
+margin: 0px 0;
+width:100%;
+}
+.row-space {
+	display:none;
+}
+.top_pro, .top {
+	display:none;
+}
+
+}
+
